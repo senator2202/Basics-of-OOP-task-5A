@@ -14,4 +14,4 @@
 (объект, представляющий собой цветочную композицию). Составляющими цветочной композиции являются цветы
 и упаковка.
 
-Точка входа в программу - метод main() в классе FlowerCompositionPackage.FlowerComposition
+Точка входа в программу - метод main() в классе FlowerCompositionPackage.FlowerComposition.
